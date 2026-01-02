@@ -25,7 +25,7 @@ From notes for 1998 year-end letter:
 *September*
 - *Home to NY for Aunt Bunny's funeral. Showed Serena around Walden. Also went through Saratoga.*
 
-*Novenber*
+*November*
 - *Volunteer work at Caz Dance Camp. Got to use jackhammer.*
 - *Thanksgiving @ Disneyland.*
 - *Fosse dance show.*
