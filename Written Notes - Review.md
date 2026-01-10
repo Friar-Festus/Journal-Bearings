@@ -56,3 +56,5 @@ And that was as far as I got. Normally I date these types of notes.
 Mark Dery - **The Pyrotechnic Insanitarium** 
 Looks interesting but not available in library. 
 
+So is this working?
+Again, is it working?
