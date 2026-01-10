@@ -56,4 +56,4 @@ And that was as far as I got. Normally I date these types of notes.
 Mark Dery - **The Pyrotechnic Insanitarium** 
 - Looks interesting but not available in library. 
 
-I have to remember that lines *not* separated by a <CR> will get concatenated.
+I have to remember that lines *not* separated by a \<CR\> will get concatenated.

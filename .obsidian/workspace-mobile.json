@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c52c713f831560",
+        "id": "8052dce62dff4faa",
         "type": "tabs",
         "children": [
           {
-            "id": "e6350439b9eb19fe",
+            "id": "c421388536f8e98c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,7 +144,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Written Notes - Review.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -167,14 +166,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6350439b9eb19fe",
+  "active": "c421388536f8e98c",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Written Notes - Review.md",
+    "2026-01-01.md",
     "Journal-Bearings/Written Notes - Review.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
-    "2026-01-01.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Musings.md"
   ]
 }
